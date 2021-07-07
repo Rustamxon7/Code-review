@@ -2,11 +2,11 @@
   box-sizing: border-box;
 }
 
-iframe{
-    border-width: 0px;
+iframe {
+  border-width: 0px;
 }
 
-#div {
+body {
   margin: 0;
   padding: 0;
   font-size: 15px;
