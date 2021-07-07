@@ -4,7 +4,8 @@
 
 > Code review project
 
-![Screen Shot 2021-07-07 at 1 27 39 PM](https://user-images.githubusercontent.com/69011963/124726519-476d5c00-df27-11eb-816d-026e8aa7af16.png)
+![Screen Shot 2021-07-07 at 6 36 09 PM](https://user-images.githubusercontent.com/69011963/124768633-44d42c00-df52-11eb-8416-6632ee7a32e3.png)
+
 
 Additional description about the project and its features.
 
